@@ -86,7 +86,7 @@
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-column-gap: 1em;
+  grid-gap: 1em;
 }
 .food-info-wrapper{
   width: 100%;
